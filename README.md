@@ -1,2 +1,2 @@
 # linkedlist
-Concurrent linked list in golang
+Concurrent linked list on golang
